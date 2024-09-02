@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Le-hacker49
 - 👀 I’m interested in front-end web developpement, hardware and batch.
-- 🌱 I’m currently learning CSS, JS and more other languages.
-- 💞️ I’m looking to collaborate on a website developpement project.
+- 🌱 I’m currently learning CSS and more other languages.
 - 📫 To reach me send an email to brickmaniak@proton.me
 - 😄 Pronouns: He / Him
 
