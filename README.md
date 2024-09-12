@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brickmaniak
-- 👀 I’m interested in front-end web developpement, hardware and batch.
+- 👀 I’m interested in front-end web developpement and batch.
 - 🌱 I’m currently learning CSS and more other languages.
 - 📫 To reach me send an email to brickmaniak@proton.me
 - 😄 Pronouns: He / Him
